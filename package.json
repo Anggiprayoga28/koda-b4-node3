@@ -1,0 +1,26 @@
+{
+  "name": "minitaskw2-node3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "lintFix": "npx eslint * .js ./* ../*.js --fix",
+    "lint": "npx eslint * .js ./* .js ./**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anggiprayoga28/koda-b4-node3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anggiprayoga28/koda-b4-node3/issues"
+  },
+  "homepage": "https://github.com/Anggiprayoga28/koda-b4-node3#readme"
+}

@@ -1,0 +1,1 @@
+const fetchTalentsData = require('./lib/dataFetch')
